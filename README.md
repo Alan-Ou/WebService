@@ -16,6 +16,8 @@ cd users
 ```bash
 python app.py
 ```
+- Super user: name (ammar) and password (ammar) 
+- Domain: sc18co.pythonanywhere.com
 # Instruction  
 <!--Nothing-->
 
